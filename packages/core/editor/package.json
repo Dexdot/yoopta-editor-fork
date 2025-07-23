@@ -1,6 +1,6 @@
 {
   "name": "editor",
-  "version": "4.9.11",
+  "version": "4.9.12",
   "license": "MIT",
   "private": false,
   "main": "dist/index.js",
