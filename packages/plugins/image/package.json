@@ -1,5 +1,5 @@
 {
-  "name": "@dexdot/image",
+  "name": "image",
   "version": "4.9.11",
   "description": "Image plugin for Yoopta Editor",
   "author": "Darginec05 <devopsbanda@gmail.com>",
@@ -39,5 +39,5 @@
     "@radix-ui/react-icons": "^1.3.0",
     "re-resizable": "^6.9.11"
   },
-  "gitHead": "26e2b8f9867af808fe98a540d1308b4835a1571a"
+  "gitHead": "f6b39b9bc2219ecd0acc87f8473d86ed92324920"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@dexdot/table",
+  "name": "table",
   "version": "4.9.11",
   "description": "Table plugin for Yoopta Editor [IN PROGRESS]",
   "author": "Darginec05 <devopsbanda@gmail.com>",
@@ -37,5 +37,5 @@
   "dependencies": {
     "lucide-react": "^0.436.0"
   },
-  "gitHead": "26e2b8f9867af808fe98a540d1308b4835a1571a"
+  "gitHead": "f6b39b9bc2219ecd0acc87f8473d86ed92324920"
 }

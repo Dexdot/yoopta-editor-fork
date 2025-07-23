@@ -1,5 +1,5 @@
 {
-  "name": "@dexdot/chat-gpt-assistant",
+  "name": "chat-gpt-assistant",
   "version": "2.0.1",
   "description": "Chat GPT Assistant tool for Yoopta Editor",
   "author": "Darginec05 <devopsbanda@gmail.com>",

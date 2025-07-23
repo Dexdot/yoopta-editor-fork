@@ -1,5 +1,5 @@
 {
-  "name": "@dexdot/link",
+  "name": "link",
   "version": "4.9.11",
   "description": "Link plugin for Yoopta Editor",
   "author": "Darginec05 <devopsbanda@gmail.com>",
@@ -37,5 +37,5 @@
   "dependencies": {
     "lucide-react": "^0.379.0"
   },
-  "gitHead": "26e2b8f9867af808fe98a540d1308b4835a1571a"
+  "gitHead": "f6b39b9bc2219ecd0acc87f8473d86ed92324920"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@dexdot/editor",
+  "name": "editor",
   "version": "4.9.11",
   "license": "MIT",
   "private": false,
@@ -68,5 +68,5 @@
     "url": "https://github.com/Darginec05/Yoopta-Editor/issues"
   },
   "homepage": "https://github.com/Darginec05/Yoopta-Editor#readme",
-  "gitHead": "26e2b8f9867af808fe98a540d1308b4835a1571a"
+  "gitHead": "f6b39b9bc2219ecd0acc87f8473d86ed92324920"
 }

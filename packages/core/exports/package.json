@@ -1,5 +1,5 @@
 {
-  "name": "@dexdot/exports",
+  "name": "exports",
   "version": "4.9.11",
   "description": "Serialize/deserialize exports in different formats for Yoopta-Editor",
   "author": "Darginec05 <devopsbanda@gmail.com>",
@@ -36,5 +36,5 @@
   "dependencies": {
     "marked": "^13.0.0"
   },
-  "gitHead": "26e2b8f9867af808fe98a540d1308b4835a1571a"
+  "gitHead": "f6b39b9bc2219ecd0acc87f8473d86ed92324920"
 }
