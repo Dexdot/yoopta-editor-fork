@@ -1,0 +1,7 @@
+.babelrc
+.github
+.next/
+build/
+dist/
+node_modules/
+.yarn/
