@@ -3,7 +3,7 @@
   "packages": ["packages/plugins/*", "packages/tools/*", "packages/marks", "packages/core/*", "packages/development"],
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "version": "4.9.10",
+  "version": "4.9.11",
   "command": {
     "publish": {
       "registry": "https://registry.npmjs.org/",
