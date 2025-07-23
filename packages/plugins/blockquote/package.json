@@ -1,5 +1,5 @@
 {
-  "name": "@yoopta/blockquote",
+  "name": "@dexdot/blockquote",
   "version": "4.9.10",
   "description": "Blockquote plugin for Yoopta Editor",
   "author": "Darginec05 <devopsbanda@gmail.com>",
@@ -34,5 +34,5 @@
   "bugs": {
     "url": "https://github.com/Darginec05/Yoopta-Editor/issues"
   },
-  "gitHead": "054fb22aef8ca890d17616d00928eb855e77ec29"
+  "gitHead": "26e2b8f9867af808fe98a540d1308b4835a1571a"
 }

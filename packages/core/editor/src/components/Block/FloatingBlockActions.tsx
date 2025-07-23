@@ -207,7 +207,7 @@ export const FloatingBlockActions = memo(({ editor, dragHandleProps }: FloatingB
           <button type="button" onClick={onPlusClick} className="yoopta-block-actions-plus">
             <PlusIcon />
           </button>
-          {/* <button
+          <button
             ref={onDragButtonRef}
             type="button"
             className="yoopta-block-actions-drag"
@@ -215,8 +215,17 @@ export const FloatingBlockActions = memo(({ editor, dragHandleProps }: FloatingB
             {...attributes}
             {...listeners}
           >
-            <DragIcon />
-          </button> */}
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M21.1211 16.547L16.1188 11.8533C15.7473 11.5086 15.3012 11.3343 14.8498 11.3343C14.3869 11.3343 13.9716 11.4932 13.5862 11.8379L9.77238 15.2464L8.21471 13.8408C7.86005 13.5214 7.47009 13.3609 7.07472 13.3609C6.68409 13.3609 6.33465 13.513 5.98691 13.8323L2.80002 16.6885C2.84156 18.2443 3.56523 19.0561 4.96328 19.0561H18.654C20.3481 19.0561 21.1925 18.182 21.1211 16.547ZM4.77008 19.7658H19.2299C21.0594 19.7658 22 18.8322 22 17.0304V6.74629C22 4.94292 21.0594 4.00391 19.2299 4.00391H4.77008C2.94745 4.00391 2 4.94292 2 6.74629V17.0304C2 18.8322 2.94745 19.7658 4.77008 19.7658ZM4.86601 18.1114C4.08085 18.1114 3.65441 17.7049 3.65441 16.8844V6.89069C3.65441 6.07023 4.08085 5.65831 4.86601 5.65831H19.1339C19.9122 5.65831 20.3455 6.07023 20.3455 6.89069V16.8844C20.3455 17.7049 19.9122 18.1114 19.1339 18.1114H4.86601Z"
+                fill="#272727"
+              />
+              <path
+                d="M8.54183 12.0382C9.64785 12.0382 10.5597 11.1263 10.5597 10.0103C10.5597 8.90428 9.64785 7.98402 8.54183 7.98402C7.42582 7.98402 6.514 8.90428 6.514 10.0103C6.514 11.1263 7.42582 12.0382 8.54183 12.0382Z"
+                fill="#272727"
+              />
+            </svg>
+          </button>
           <BlockOptions
             isOpen={isBlockOptionsMounted}
             refs={blockOptionsRefs}

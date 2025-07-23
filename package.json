@@ -1,5 +1,5 @@
 {
-  "name": "yoopta",
+  "name": "dexdot",
   "workspaces": [
     "packages/plugins/*",
     "packages/tools/*",
